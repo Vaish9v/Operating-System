@@ -1,3 +1,5 @@
+/*First Come First Serve*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -124,11 +126,11 @@ Enter no. of Process
 5
 =======================
 PROCESS	ARRIVAL	BURST
-1		0		10
-2		2		1	
-3		3		2
-4		6		1
-5		7		5
+1	0	10
+2	2	1	
+3	3	2
+4	6	1
+5	7	5
 =======================
 =======================
 |PROCESS|ARRIVAL|BURST|
